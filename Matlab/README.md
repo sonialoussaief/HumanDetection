@@ -15,6 +15,7 @@
           the input video's path is set by the parameter 'TrackWhichVideo'
  2) show/not show bounding box score is determined by the function 'bbApply.m'
     at line 300.
+    
  3) When calibrate the camera, just run the 'calibration.m' file and it
     will use the lastest 'cali.jpg' as input image.
 
