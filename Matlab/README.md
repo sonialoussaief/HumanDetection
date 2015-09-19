@@ -1,5 +1,7 @@
 # Please read this file before using the 'kalman.m' function to track objects
- 1) There are four important m files: 
+
+1) There are four important m files: 
+
      *--- 'calibration.m': calibrate the camera, key points must be
           pointed out from bottom right, counterclockwise, base to top.
      *--- 'CaptureVideo.m': capture video from web camera in real time, and
