@@ -1,6 +1,6 @@
 # Please read this before using the 'kalman.m' function to track objects
 
-1) The tool-box master detector part is necessary.
+1) The tool-box master's detector and channel parts are necessary.
 
 2) There are four important m files: 
 
