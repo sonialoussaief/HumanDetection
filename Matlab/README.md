@@ -1,6 +1,6 @@
 # Please read this before using the 'kalman.m' function to track objects
 
-![alt tag](/intro.png)
+![alt tag](intro.png)
 Youtube link to the test video: https://www.youtube.com/watch?v=sWWLPgmLOnw 
 
 1) The tool-box master's detector and channel parts are necessary.
