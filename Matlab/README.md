@@ -1,4 +1,4 @@
-# Please read this before using the 'kalman.m' function to track objects
+# Please read this before using the kalman.m function to track objects
 
 ![alt tag](intro.png)
 Youtube link to the test video: https://www.youtube.com/watch?v=sWWLPgmLOnw 
